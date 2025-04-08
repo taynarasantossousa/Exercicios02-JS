@@ -1,1 +1,1 @@
-# Exercicios02-JS
+# Exercicios-02-JS
